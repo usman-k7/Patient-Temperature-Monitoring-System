@@ -39,15 +39,13 @@ pip install -r requirements.txt
 ```
 ---
 ## 🚀 Future Enhancements
-- 🌡️ Integrate with real IoT sensors (Raspberry Pi / Arduino)
+- Integrate with real IoT sensors (Raspberry Pi / Arduino).
 
-- 📈 Visualize temperature trends using Matplotlib
+- Upgrade to continuous real-time temperature monitoring.
 
-- ☁️ Upload patient data to a cloud database (Firebase / MongoDB)
+- Add SMS or email alert system for emergency notifications.
 
-- 📲 Add SMS or email alert system for emergency notifications
-
-- 🧠 Add multi-patient monitoring dashboard
+- Visualize temperature trends with real-time graphs.
 ---
 
 ## 🤝 Contributing
